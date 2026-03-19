@@ -1,4 +1,3 @@
-// Write your code here
 import Snowfall from 'react-snowfall'
 import {Component} from 'react'
 import DestinationItem from '../DestinationItem'
